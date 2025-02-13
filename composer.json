@@ -1,0 +1,33 @@
+{
+    "name": "gearmagicru/gm-be-references-properties",
+    "description": "Control Panel extension (module) \"Interface element properties\"",
+    "keywords": [
+        "gm",
+        "gearmagic",
+        "GM Panel",
+        "extension",
+        "references",
+        "properties"
+    ],
+    "homepage": "https://apps.gearmagic.ru/component/gm-be-references-properties",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anton Tivonenko",
+            "email": "anton.tivonenko@gmail.com",
+            "homepage": "https://gearmagic.ru"
+        }
+    ],
+    "require": {
+        "gearmagicru/gm-composer-plugin": "*"
+    },
+    "extra": {
+        "gm": {
+            "id": "gm.be.references-properties",
+            "vendor": "gm"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
