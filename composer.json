@@ -1,14 +1,7 @@
 {
     "name": "gearmagicru/gm-be-references-properties",
     "description": "Control Panel extension (module) \"Interface element properties\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "GM Panel",
-        "extension",
-        "references",
-        "properties"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-extension", "extension", "references", "properties"],
     "homepage": "https://apps.gearmagic.ru/component/gm-be-references-properties",
     "type": "component",
     "license": "MIT",
